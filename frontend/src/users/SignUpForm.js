@@ -77,7 +77,7 @@ function SignUpForm() {
 							className="form-control"
 							id="password"
 							name="password"
-							/>
+						/>
 					</div>
 				</div>
 				<input className="btn btn-primary" type="submit" value="Sign Up" />
